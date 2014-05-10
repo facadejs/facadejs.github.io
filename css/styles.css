@@ -24,12 +24,6 @@ p {
     margin: 1em 0;
 }
 
-p a {
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto;
-}
-
 pre code {
     margin: 1em 0;
     font-size: .9em;
@@ -58,8 +52,8 @@ header {
 
 header a {
     color: inherit;
-}
 
+}
 
 .version {
     color: #888;
@@ -71,6 +65,12 @@ section:not(:last-of-type):after {
     margin: 1em auto;
     width: 25%;
     border-top: 1px solid #aaa;
+}
+
+section a {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
 }
 
 footer {
