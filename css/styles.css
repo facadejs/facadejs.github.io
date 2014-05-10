@@ -60,10 +60,6 @@ header a {
     color: inherit;
 }
 
-.version,
-.links {
-    font-size: .7em;
-}
 
 .version {
     color: #888;
@@ -141,6 +137,11 @@ footer {
 
     header {
         font-size: 1.3em;
+    }
+
+    .version,
+    .links {
+        font-size: .7em;
     }
 
 }
