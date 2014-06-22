@@ -11,8 +11,8 @@ pre code {
 
 canvas {
     margin: 1em 0;
-    width: 100%;
-    height: auto;
+    width: 100% !important;
+    height: auto !important;
     background: #eee url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPgoJPGxpbmUgeDE9IjAiIHkxPSI1MCUiIHgyPSIxMDAlIiB5Mj0iNTAlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZT0iIzdmZWNmZiIgLz4KCTxsaW5lIHgxPSI1MCUiIHkxPSIwIiB4Mj0iNTAlIiB5Mj0iMTAwJSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiM3ZmVjZmYiIC8+Cjwvc3ZnPg==);
 }
 
